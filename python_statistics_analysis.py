@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[ ]:
+
+
 import pandas as pd
 import numpy as np
 import sklearn as sk
@@ -180,3 +186,4 @@ plt.ylabel('Predicted Outcome (Y)')
 plt.legend([cLegend])
 plt.grid(True)
 plt.show()
+
