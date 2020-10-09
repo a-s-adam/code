@@ -1,6 +1,6 @@
 		AREA fib_iterative, CODE, READONLY
 		EXPORT main 
-; int main(void)ffff
+; int main(void)
 		ALIGN
 main	PROC
 		
